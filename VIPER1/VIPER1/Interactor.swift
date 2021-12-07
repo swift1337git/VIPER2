@@ -6,7 +6,7 @@
 //
 
 import Foundation
-//git
+//git2
 protocol AnyInteractor {
     var presenter: AnyPresenter? { get set }
     

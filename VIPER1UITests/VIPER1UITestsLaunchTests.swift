@@ -4,7 +4,7 @@
 //
 //  Created by pcuser on 07.12.2021.
 //
-//git
+//git2
 import XCTest
 
 class VIPER1UITestsLaunchTests: XCTestCase {
